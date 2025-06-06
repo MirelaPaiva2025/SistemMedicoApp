@@ -1,0 +1,5 @@
+{
+  "SistemaMedicoApp.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\CSharp\\App\\SistemaMedicoApp\\SistemaMedicoApp.API",
+  "SistemaMedicoApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\CSharp\\App\\SistemaMedicoApp\\SistemaMedicoApp.Domain",
+  "SistemaMedicoApp.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\CSharp\\App\\SistemaMedicoApp\\SistemaMedicoApp.Infra.Data"
+}

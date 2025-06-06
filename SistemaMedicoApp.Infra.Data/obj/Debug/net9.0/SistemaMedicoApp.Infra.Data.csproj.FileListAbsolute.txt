@@ -1,0 +1,17 @@
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\bin\Debug\net9.0\SistemaMedicoApp.Infra.Data.deps.json
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\bin\Debug\net9.0\SistemaMedicoApp.Infra.Data.runtimeconfig.json
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\bin\Debug\net9.0\SistemaMedicoApp.Infra.Data.dll
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\bin\Debug\net9.0\SistemaMedicoApp.Infra.Data.pdb
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\bin\Debug\net9.0\SistemaMedicoApp.Domain.dll
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\bin\Debug\net9.0\SistemaMedicoApp.Domain.pdb
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaMedicoApp.Infra.Data.csproj.AssemblyReference.cache
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaMedicoApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaMedicoApp.Infra.Data.AssemblyInfoInputs.cache
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaMedicoApp.Infra.Data.AssemblyInfo.cs
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaMedicoApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaM.B709EC75.Up2Date
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaMedicoApp.Infra.Data.dll
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\refint\SistemaMedicoApp.Infra.Data.dll
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaMedicoApp.Infra.Data.pdb
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\SistemaMedicoApp.Infra.Data.genruntimeconfig.cache
+C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Infra.Data\obj\Debug\net9.0\ref\SistemaMedicoApp.Infra.Data.dll
