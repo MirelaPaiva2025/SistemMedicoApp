@@ -10,3 +10,16 @@ C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaM
 C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\refint\SistemaMedicoApp.Domain.dll
 C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.pdb
 C:\CSharp\App\SistemaMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\ref\SistemaMedicoApp.Domain.dll
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\bin\Debug\net9.0\SistemaMedicoApp.Domain.deps.json
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\bin\Debug\net9.0\SistemaMedicoApp.Domain.dll
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\bin\Debug\net9.0\SistemaMedicoApp.Domain.pdb
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.csproj.AssemblyReference.cache
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.AssemblyInfoInputs.cache
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.AssemblyInfo.cs
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.csproj.CoreCompileInputs.cache
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.sourcelink.json
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.dll
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\refint\SistemaMedicoApp.Domain.dll
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\SistemaMedicoApp.Domain.pdb
+C:\CSharp\Projetos GitHub\SistemMedicoApp\SistemaMedicoApp.Domain\obj\Debug\net9.0\ref\SistemaMedicoApp.Domain.dll

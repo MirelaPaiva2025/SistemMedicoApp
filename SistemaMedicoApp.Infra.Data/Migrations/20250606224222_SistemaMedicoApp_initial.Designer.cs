@@ -113,7 +113,7 @@ namespace SistemaMedicoApp.Infra.Data.Migrations
 
                     b.Property<DateTime>("DataNascimento")
                         .HasColumnType("datetime2")
-                        .HasColumnName("DATA_NASCIMENTO");
+                        .HasColumnName("DATANASCIMENTO");
 
                     b.Property<string>("Endereco")
                         .IsRequired()

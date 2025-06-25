@@ -249,11 +249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\App\\SistemaMedicoApp\\SistemaMedicoApp.Domain\\SistemaMedicoApp.Domain.csproj",
+      "projectUniqueName": "C:\\CSharp\\Projetos GitHub\\SistemMedicoApp\\SistemaMedicoApp.Domain\\SistemaMedicoApp.Domain.csproj",
       "projectName": "SistemaMedicoApp.Domain",
-      "projectPath": "C:\\CSharp\\App\\SistemaMedicoApp\\SistemaMedicoApp.Domain\\SistemaMedicoApp.Domain.csproj",
+      "projectPath": "C:\\CSharp\\Projetos GitHub\\SistemMedicoApp\\SistemaMedicoApp.Domain\\SistemaMedicoApp.Domain.csproj",
       "packagesPath": "C:\\Users\\mirel\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\App\\SistemaMedicoApp\\SistemaMedicoApp.Domain\\obj\\",
+      "outputPath": "C:\\CSharp\\Projetos GitHub\\SistemMedicoApp\\SistemaMedicoApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

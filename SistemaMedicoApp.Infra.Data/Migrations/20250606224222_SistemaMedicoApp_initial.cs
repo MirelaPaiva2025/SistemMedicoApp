@@ -36,7 +36,7 @@ namespace SistemaMedicoApp.Infra.Data.Migrations
                     ID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     NOME = table.Column<string>(type: "nvarchar(150)", maxLength: 150, nullable: false),
-                    DATA_NASCIMENTO = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    DATANASCIMENTO = table.Column<DateTime>(type: "datetime2", nullable: false),
                     ENDERECO = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: false),
                     GENERO = table.Column<int>(type: "int", nullable: false)
                 },

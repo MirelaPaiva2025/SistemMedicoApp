@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAM/QOOCNRo=",
+  "dgSpecHash": "gRO/rYgFlBA=",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\App\\SistemaMedicoApp\\SistemaMedicoApp.Domain\\SistemaMedicoApp.Domain.csproj",
+  "projectFilePath": "C:\\CSharp\\Projetos GitHub\\SistemMedicoApp\\SistemaMedicoApp.Domain\\SistemaMedicoApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mirel\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\9.0.5\\microsoft.aspnetcore.jsonpatch.9.0.5.nupkg.sha512",
     "C:\\Users\\mirel\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\9.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.9.0.5.nupkg.sha512",
