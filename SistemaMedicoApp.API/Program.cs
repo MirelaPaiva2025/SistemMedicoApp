@@ -54,8 +54,8 @@ if (app.Environment.IsDevelopment())
 }
 
 // Configura o Swagger para gerar a documentação da API
-//app.UseSwagger();
-//app.UseSwaggerUI();
+app.UseSwagger();
+app.UseSwaggerUI();
 
 CorsConfiguration.UseCorsConfiguration(app);
 
